@@ -13,6 +13,13 @@
 | [**旅尋 LvSyn**](https://lvsyn.app)（[APK 下載](https://github.com/Sateaze/lvsyn-beta-apk)） | 使用者與 AI 共同編輯的旅遊行程系統。AI 直接修改行程，時間由確定性行程引擎依真實交通重算。我負責**車隊模式、好友系統、公平會合點**、推薦規則細節與測試 | Flutter・Gemini・Cloudflare Workers・Google Maps API |
 | 線上卡牌對戰模擬器（私人） | 權威伺服器判定規則、依玩家遮蔽隱藏資訊，前端／伺服器／遊戲引擎三層分離 | TypeScript・React・WebSocket |
 
+### 其他嘗試（AI 輔助實驗作品）
+
+以 AI 輔助快速做出原型，驗證新領域的想法。
+
+- [**鉛棋百怪**](https://github.com/Sateaze/pencil-auto-battler)：Godot 自走棋遊戲原型，戰鬥先以固定種子算完再播放，結果可重現
+- [**Party Hub**](https://github.com/Sateaze/party-hub)：電腦當主機、手機掃 QR code 加入的派對遊戲框架，即時同步並支援斷線重連
+
 ### 技能
 
 **語言**：TypeScript／JavaScript・Python・HTML／CSS・SQL（基礎）・C#（學習中）
